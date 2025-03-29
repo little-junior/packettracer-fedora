@@ -20,13 +20,12 @@ Now, the script accepts command line options:
 
 ## Supported Fedora release
 
-- [x] Fedora 38 ([F38 is End of Life](https://discussion.fedoraproject.org/t/f38-is-end-of-life/117727))
-- [x] Fedora 39
-- [x] Fedora 40
+- [x] Fedora 40 ([F40 End of Life 2025-05-13](https://fedorapeople.org/groups/schedule/f-40/f-40-key-tasks.html))
 - [x] Fedora 41
+- [x] Fedora 42
 
-## Supported other releases
-- [X] Nobara 39
-- [X] Nobara 40
+> [!Note]
+> If you are using a distribution that is based on Fedora, probably this script will work on. If not, open an issue. I will not list any Fedora based distro here.
 
-_If you try this script in another Fedora release, please report any problem or success case._
+> [!Important]
+> If you try this script in another Fedora release, please [report](https://github.com/thiagoojack/packettracer-fedora/issues) any problem or success case.
